@@ -3,7 +3,6 @@ public class Animal implements Comparable<Animal> {
 
     int age;
     String name;
-    int weight;
 
     public Animal(int age, String name) {
         this.age = age;
